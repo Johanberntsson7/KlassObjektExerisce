@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KlassObjektExerisce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35dd1a6759351dd1c6ce24dbfef83c422bdd234c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b6b1d1232910f2908752154d215f39230b6cc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("KlassObjektExerisce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KlassObjektExerisce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
