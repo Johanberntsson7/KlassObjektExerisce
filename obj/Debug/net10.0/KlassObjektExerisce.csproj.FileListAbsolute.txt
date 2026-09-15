@@ -1,0 +1,15 @@
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\bin\Debug\net10.0\KlassObjektExerisce.exe
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\bin\Debug\net10.0\KlassObjektExerisce.deps.json
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\bin\Debug\net10.0\KlassObjektExerisce.runtimeconfig.json
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\bin\Debug\net10.0\KlassObjektExerisce.dll
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\bin\Debug\net10.0\KlassObjektExerisce.pdb
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.AssemblyInfoInputs.cache
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.AssemblyInfo.cs
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.csproj.CoreCompileInputs.cache
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.sourcelink.json
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.dll
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\refint\KlassObjektExerisce.dll
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.pdb
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\KlassObjektExerisce.genruntimeconfig.cache
+C:\Users\Johan\NBI\vecka 4\KlassObjektExercise\KlassObjektExerisce\obj\Debug\net10.0\ref\KlassObjektExerisce.dll
